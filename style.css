@@ -7,7 +7,7 @@
     background-color: white;
     color: #000080;
     border-left: 5px;
-    border-bottom: 2px solid gray;
+    /* border-bottom: 2px solid gray; */
     box-sizing: border-box;
 }
 
